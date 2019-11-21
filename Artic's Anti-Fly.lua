@@ -1,7 +1,7 @@
 --Put this script in ServerScriptService please, okay?
 local Module = require(script:FindFirstChild("Average"):WaitForChild("ModuleScript"))
 
-local MaxY = 12 --IMPORTANT: (You will have to change this 100%) Change this to an value to where maximum Y normal player can achieve also include their jump which about 3 studs 
+local MaxY = 12 --IMPORTANT: (You will have to change this 100%) Change this to an value to where maximum Y normal player can achieve from spawn location also include their jump which about 5 studs 
 
 
 local MaxBoolCaughts = 3 -- Chnage this to how many times you allow player to do mistake before adding a score to script counter
